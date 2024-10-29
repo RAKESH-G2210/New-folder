@@ -191,7 +191,7 @@ body {
 
 /* Features Section */
 .features {
-    background-color: #fff;
+    background-color:#ffcc00;
     padding: 40px;
     text-align: center;
 }
@@ -210,7 +210,7 @@ body {
 /* Testimonials Section */
 .testimonials {
     padding: 40px;
-    background-color: #ffcc00;
+    background-color: white;
     text-align: center;
 }
 
